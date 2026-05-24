@@ -1,0 +1,23 @@
+{
+  "completed_levels": {
+    "hard_Hard Level 1": true,
+    "hard_Hard Level 2": true,
+    "medium_Medium Level 1": true,
+    "medium_Medium Level 3": true,
+    "hard_Hard Level 3": true
+  },
+  "best_moves": {
+    "hard_Hard Level 1": 16,
+    "hard_Hard Level 2": 21,
+    "medium_Medium Level 1": 11,
+    "medium_Medium Level 3": 11,
+    "hard_Hard Level 3": 57
+  },
+  "best_times": {
+    "hard_Hard Level 1": 6,
+    "hard_Hard Level 2": 11,
+    "medium_Medium Level 1": 4,
+    "medium_Medium Level 3": 6,
+    "hard_Hard Level 3": 18
+  }
+}
