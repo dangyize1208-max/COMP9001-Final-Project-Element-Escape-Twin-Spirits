@@ -167,10 +167,4 @@ Here are some ideas for adding more features:
 4. **Leaderboard** - Compete with friends!
 5. **Mobile version** - Port it to Kivy for phones
 
-## Credits
-
-Created as a final project for COMP9001 (Computer Science) in May 2026.
-
----
-
 Have fun playing! And remember - if you get stuck, just use Undo and try again. That's what it's there for! 😄
