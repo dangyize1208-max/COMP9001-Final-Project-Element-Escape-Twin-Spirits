@@ -2,7 +2,6 @@
 # COMP9001 Final Project
 # A puzzle game where players guide Fire and Water spirits to their exits
 # using keys, switches, and avoiding hazards. GUI-based with clickable controls.
-# Date: May 2026
 
 import os
 import time
